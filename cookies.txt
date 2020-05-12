@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.semicolonweb.com	TRUE	/	FALSE	1999999999	__cfduid	d865817087430e2e94795f25d41ff96af1589277961
+themes.semicolonweb.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
